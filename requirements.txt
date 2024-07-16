@@ -1,3 +1,4 @@
 open3d
 torch
 ruamel.yaml
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
